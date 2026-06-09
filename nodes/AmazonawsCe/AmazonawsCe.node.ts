@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsCe implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-ce',
+		displayName: 'Amazonaws Ce',
 		name: 'N8nDevAmazonawsCe',
 		icon: { light: 'file:./amazonaws-ce.png', dark: 'file:./amazonaws-ce.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'You can use the Cost Explorer API to programmatically query your cost and usage data. You can query for aggregated data such as total monthly costs or total daily usage. You can also query for g..',
-		defaults: { name: 'amazonaws-ce' },
+		description: 'Use Cost Explorer API to query cost and usage data.',
+		defaults: { name: 'Amazonaws Ce' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

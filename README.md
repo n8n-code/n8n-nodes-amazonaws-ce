@@ -53,9 +53,48 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post create anomaly monitor, Post create anomaly subscription, Post create cost category definition, Post delete anomaly monitor, Post delete anomaly subscription, Post delete cost category definition, Post describe cost category definition, Post get anomalies, Post get anomaly monitors, Post get anomaly subscriptions, Post get cost and usage, Post get cost and usage with resources, Post get cost categories, Post get cost forecast, Post get dimension values, Post get reservation coverage, Post get reservation purchase recommendation, Post get reservation utilization, Post get rightsizing recommendation, Post get savings plans coverage, Post get savings plans purchase recommendation, Post get savings plans utilization, Post get savings plans utilization details, Post get tags, Post get usage forecast, Post list cost allocation tags, Post list cost category definitions, Post list savings plans purchase recommendation generation, Post list tags for resource, Post provide anomaly feedback, Post start savings plans purchase recommendation generation, Post tag resource, Post untag resource, Post update anomaly monitor, Post update anomaly subscription, Post update cost allocation tags status, Post update cost category definition |
+<details>
+<summary><b>Default</b> (37 operations)</summary>
+
+- Post Create Anomaly Monitor
+- Post Create Anomaly Subscription
+- Post Create Cost Category Definition
+- Post Delete Anomaly Monitor
+- Post Delete Anomaly Subscription
+- Post Delete Cost Category Definition
+- Post Describe Cost Category Definition
+- Post Get Anomalies
+- Post Get Anomaly Monitors
+- Post Get Anomaly Subscriptions
+- Post Get Cost And Usage
+- Post Get Cost And Usage With Resources
+- Post Get Cost Categories
+- Post Get Cost Forecast
+- Post Get Dimension Values
+- Post Get Reservation Coverage
+- Post Get Reservation Purchase Recommendation
+- Post Get Reservation Utilization
+- Post Get Rightsizing Recommendation
+- Post Get Savings Plans Coverage
+- Post Get Savings Plans Purchase Recommendation
+- Post Get Savings Plans Utilization
+- Post Get Savings Plans Utilization Details
+- Post Get Tags
+- Post Get Usage Forecast
+- Post List Cost Allocation Tags
+- Post List Cost Category Definitions
+- Post List Savings Plans Purchase Recommendation Generation
+- Post List Tags For Resource
+- Post Provide Anomaly Feedback
+- Post Start Savings Plans Purchase Recommendation Generation
+- Post Tag Resource
+- Post Untag Resource
+- Post Update Anomaly Monitor
+- Post Update Anomaly Subscription
+- Post Update Cost Allocation Tags Status
+- Post Update Cost Category Definition
+
+</details>
 
 ---
 

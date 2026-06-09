@@ -820,7 +820,7 @@ export const defaultDescription: INodeProperties[] = [
 			"description": "The rule schema version in this particular Cost Category.",
 			"options": [
 				{
-					"name": "Cost Category Expression V 1",
+					"name": "Cost Category Expression v1",
 					"value": "CostCategoryExpression.v1"
 				}
 			],
@@ -3701,7 +3701,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Account Id",
+			"displayName": "Account ID",
 			"name": "AccountId",
 			"type": "string",
 			"default": "",
@@ -6958,7 +6958,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Anomaly Id",
+			"displayName": "Anomaly ID",
 			"name": "AnomalyId",
 			"type": "string",
 			"default": "",
@@ -7971,7 +7971,7 @@ export const defaultDescription: INodeProperties[] = [
 			"description": "The rule schema version in this particular Cost Category.",
 			"options": [
 				{
-					"name": "Cost Category Expression V 1",
+					"name": "Cost Category Expression v1",
 					"value": "CostCategoryExpression.v1"
 				}
 			],

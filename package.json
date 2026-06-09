@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-amazonaws-ce",
-  "version": "1.0.0",
-  "description": "You can use the Cost Explorer API to programmatically query your cost and usage data. You can query for aggregated data such as total monthly costs or total daily usage. You can also query for g..",
+  "version": "1.0.1",
+  "description": "Use Cost Explorer API to query cost and usage data.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-amazonaws-ce",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "amazonaws-ce"

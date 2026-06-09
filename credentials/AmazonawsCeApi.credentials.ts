@@ -8,7 +8,7 @@ import type {
 export class AmazonawsCeApi implements ICredentialType {
 	name = 'N8nDevAmazonawsCeApi';
 
-	displayName = 'amazonaws-ce API';
+	displayName = 'Amazonaws Ce API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsCe/amazonaws-ce.png', dark: 'file:../nodes/AmazonawsCe/amazonaws-ce.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsCeApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://ce.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-ce API server',
+			description: 'The base URL of your Amazonaws Ce API server',
 		},
 		{
 			displayName: 'API Key',
